@@ -1,2 +1,22 @@
 # Kubot26-RL
-Reinforcement Learning for Kubot26 Humanoid Robot using Isaac Gym
+
+Next-generation humanoid robot platform for RoboCup.
+
+## Features
+
+- Humanoid Robot Design
+- Isaac Gym Reinforcement Learning
+- PPO Locomotion Training
+- RoboCup Development Platform
+
+## Status
+
+Under Development
+
+## Roadmap
+
+- [ ] CAD Design
+- [ ] URDF Generation
+- [ ] Isaac Gym Integration
+- [ ] Walking Policy Training
+- [ ] Real Robot Deployment
