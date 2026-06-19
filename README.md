@@ -11,7 +11,7 @@ Next-generation humanoid robot platform for RoboCup.
 
 ## Status
 
-Under Development
+현재 Solidworks 상에서 설계 중인 프로젝트
 
 ## Roadmap
 
