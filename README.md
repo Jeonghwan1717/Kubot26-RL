@@ -16,7 +16,7 @@ Next-generation humanoid robot platform for RoboCup.
 - [ ] Baselink
 - [ ] Legs
 - [ ] Arms
-- [ ] Neck & Head
+- [x] Neck & Head
 
 ## Roadmap
 
