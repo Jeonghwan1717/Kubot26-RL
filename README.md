@@ -13,6 +13,11 @@ Next-generation humanoid robot platform for RoboCup.
 
 현재 Solidworks 상에서 설계 중인 프로젝트
 
+- [ ] Baselink
+- [ ] Legs
+- [ ] Arms
+- [ ] Neck & Head
+
 ## Roadmap
 
 - [ ] CAD Design
